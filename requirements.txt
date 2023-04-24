@@ -1,0 +1,5 @@
+pybind11
+numpy==1.23 # ==1.23 for onnx_tool
+onnx
+onnx_tool
+coloredlogs
